@@ -1,8 +1,8 @@
-import React from "react";
-import styled from "styled-components";
-import { Link } from "gatsby";
-import Container from "./container";
-import { useStaticQuery, graphql } from "gatsby";
+import React from "react"
+import styled from "styled-components"
+import { Link } from "gatsby"
+import Container from "./container"
+import { useStaticQuery, graphql } from "gatsby"
 
 const Header = () => {
   const { site } = useStaticQuery(
@@ -15,13 +15,13 @@ const Header = () => {
         }
       }
     `
-  );
+  )
 
   return (
     <StyledHeader>
       <HeaderWrapper>
         <HeaderTitle>
-          <Link to="/">{site.siteMetadata.title}</Link>
+          <Link to="/blog">{site.siteMetadata.title}</Link>
         </HeaderTitle>
 
         <HeaderNavList>
@@ -30,7 +30,7 @@ const Header = () => {
           </HeaderNavListItem>
 
           <HeaderNavListItem>
-            <Link to="/about">About</Link>
+            <Link to="/blog/about">About</Link>
           </HeaderNavListItem>
 
           {/* <HeaderNavListItem>
@@ -39,32 +39,32 @@ const Header = () => {
         </HeaderNavList>
       </HeaderWrapper>
     </StyledHeader>
-  );
-};
+  )
+}
 
-export default Header;
+export default Header
 
 const HeaderNavList = ({ children }) => {
   return (
     <StyledNav>
       <StyledNavList>{children}</StyledNavList>
     </StyledNav>
-  );
-};
+  )
+}
 
 const HeaderNavListItem = ({ children }) => {
-  return <StyledNavListItem>{children}</StyledNavListItem>;
-};
+  return <StyledNavListItem>{children}</StyledNavListItem>
+}
 
 const StyledHeader = styled.header`
   padding-top: var(--size-300);
-`;
+`
 
 const HeaderWrapper = styled(Container)`
   display: flex;
   align-items: center;
   justify-content: space-between;
-`;
+`
 
 const HeaderTitle = styled.div`
   & a {
@@ -73,14 +73,14 @@ const HeaderTitle = styled.div`
     font-size: var(--size-400);
     color: inherit;
   }
-`;
+`
 
 const StyledNav = styled.nav`
   position: static;
   padding: 0;
   background: transparent;
   backdrop-filter: unset;
-`;
+`
 
 const StyledNavList = styled.ul`
   display: flex;
@@ -89,7 +89,7 @@ const StyledNavList = styled.ul`
   justify-content: space-around;
   padding: 0;
   list-style-type: none;
-`;
+`
 
 const StyledNavListItem = styled.li`
   &:not(:last-of-type) {
@@ -112,4 +112,4 @@ const StyledNavListItem = styled.li`
       font-size: 0.7rem;
     }
   }
-`;
+`
