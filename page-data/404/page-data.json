@@ -1,5 +1,1 @@
-{
-    "componentChunkName": "component---src-pages-404-js",
-    "path": "/404/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Gatsby Starter Blog"}}},"pageContext":{}},
-    "staticQueryHashes": ["2841359383"]}
+{"componentChunkName":"component---src-pages-404-js","path":"/404/","result":{"pageContext":{}},"staticQueryHashes":["2555585279","2714594843","3159585216"]}
