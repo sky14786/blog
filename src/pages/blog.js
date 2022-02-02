@@ -1,11 +1,11 @@
-import React from 'react';
-import { graphql, Link } from 'gatsby';
-import Layout from '../components/layout';
-import PostList from '../components/post-list';
-import styled from 'styled-components';
+import React from "react"
+import { graphql, Link } from "gatsby"
+import Layout from "../components/layout"
+import PostList from "../components/post-list"
+import styled from "styled-components"
 
 const Blog = ({ data }) => {
-  const posts = data.allMarkdownRemark.nodes;
+  const posts = data.allMarkdownRemark.nodes
 
   return (
     <Layout title="Blog">
@@ -20,16 +20,16 @@ const Blog = ({ data }) => {
           `}
           to="/tags"
         >
-          view all tags
+          모든 태그 보기
         </Link>
       </HeaderWrapper>
 
       <PostList posts={posts} />
     </Layout>
-  );
-};
+  )
+}
 
-export default Blog;
+export default Blog
 
 const HeaderWrapper = styled.div`
   display: flex;
@@ -40,7 +40,7 @@ const HeaderWrapper = styled.div`
   h1 {
     max-width: none;
   }
-`;
+`
 
 export const homePageQuery = graphql`
   query {
@@ -68,4 +68,4 @@ export const homePageQuery = graphql`
       }
     }
   }
-`;
+`

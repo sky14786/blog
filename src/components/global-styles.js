@@ -1,4 +1,4 @@
-import { createGlobalStyle } from 'styled-components';
+import { createGlobalStyle } from "styled-components"
 
 const GlobalStyle = createGlobalStyle`
 *,
@@ -82,7 +82,8 @@ body::-webkit-scrollbar {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: rgba(55, 41, 44, .4);
+  /* background-color: rgba(55, 41, 44, .4); */
+  background-color: #B1D4E0;
 }
 
 body::-webkit-scrollbar-track {
@@ -105,8 +106,8 @@ body {
     helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
   color: #37292C;
   background-attachment: fixed;
-  background-color: #d9e4f5;
-  background-image: linear-gradient(315deg, #d9e4f5 0%, #f5e3e6 74%);
+  background-color: #2E8BC0;
+  background-image: linear-gradient(315deg, #d9e4f5 0%, #B1D4E0 74%);
 
 }
 
@@ -152,6 +153,6 @@ p, li {
 }
 
 
-`;
+`
 
-export default GlobalStyle;
+export default GlobalStyle

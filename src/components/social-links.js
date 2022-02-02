@@ -1,6 +1,6 @@
-import React from 'react';
-import { graphql, useStaticQuery } from 'gatsby';
-import styled from 'styled-components';
+import React from "react"
+import { graphql, useStaticQuery } from "gatsby"
+import styled from "styled-components"
 
 const SocialLinks = () => {
   const data = useStaticQuery(graphql`
@@ -10,30 +10,38 @@ const SocialLinks = () => {
           socialLinks {
             name
             url
+            image
           }
         }
       }
     }
-  `);
+  `)
 
-  const socialLinks = data.site.siteMetadata.socialLinks.map((link) => {
+  const socialLinks = data.site.siteMetadata.socialLinks.map(link => {
     return (
       <SocialLinkItem key={link.name}>
-        <a href={link.url}>{link.name}</a>
+        <a target={"_blank"} href={link.url} rel="noreferrer">
+          <img
+            src={`/media/${link.image}`}
+            width={50}
+            height={50}
+            alt={link.name}
+          ></img>
+        </a>
       </SocialLinkItem>
-    );
-  });
+    )
+  })
 
-  return <SocialLinkList>{socialLinks}</SocialLinkList>;
-};
+  return <SocialLinkList>{socialLinks}</SocialLinkList>
+}
 
-export default SocialLinks;
+export default SocialLinks
 
 const SocialLinkList = styled.ul`
   padding: 0;
   list-style: none;
   display: flex;
-`;
+`
 
 const SocialLinkItem = styled.li`
   margin-right: var(--size-400);
@@ -43,4 +51,4 @@ const SocialLinkItem = styled.li`
     color: inherit;
     font-size: var(--size-300);
   }
-`;
+`
