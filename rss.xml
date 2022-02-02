@@ -1,1232 +1,226 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개미의 메모장]]></title><description><![CDATA[이것은 블로그이다.]]></description><link>https://sky14786.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 02 Feb 2022 08:34:21 GMT</lastBuildDate><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hi, I’m John Doe This website is a live example of a Gatsby Starter — it’s not a real blog.
-People using this starter may want to add some…]]></description><link>https://sky14786.github.io/about/</link><guid isPermaLink="false">https://sky14786.github.io/about/</guid><content:encoded>&lt;h1&gt;Hi, I’m John Doe&lt;/h1&gt;
-&lt;p&gt;This website is a live example of a Gatsby Starter — it’s not a real blog.
-People using this starter may want to add some information to this page about them or their business.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[ㅎㅇ]]></title><description><![CDATA[개미의 메모장 오늘도 게으르고 열심히]]></description><link>https://sky14786.github.io/</link><guid isPermaLink="false">https://sky14786.github.io/</guid><content:encoded>&lt;h1&gt;개미의 메모장&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[개미의 메모장]]></title><description><![CDATA[이것은 블로그이다.]]></description><link>https://sky14786.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 02 Feb 2022 10:13:29 GMT</lastBuildDate><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hi, I’m Ant and Noob 한다 개미도 메모장 아니다 개미 외국인]]></description><link>https://sky14786.github.io/about/</link><guid isPermaLink="false">https://sky14786.github.io/about/</guid><content:encoded>&lt;h1&gt;Hi, I’m Ant and Noob&lt;/h1&gt;
+&lt;p&gt;한다 개미도 메모장&lt;/p&gt;
+&lt;p&gt;아니다 개미 외국인&lt;/p&gt;</content:encoded></item><item><title><![CDATA[ㅎㅇ]]></title><description><![CDATA[개미의 메모장 오늘도 게으르고 열심히]]></description><link>https://sky14786.github.io/</link><guid isPermaLink="false">https://sky14786.github.io/</guid><content:encoded>&lt;h1&gt;개미의 메모장&lt;/h1&gt;
 &lt;p&gt;오늘도 게으르고 열심히&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Contact Me]]></title><description><![CDATA[Get in Touch. If you’ve got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.]]></description><link>https://sky14786.github.io/contact/</link><guid isPermaLink="false">https://sky14786.github.io/contact/</guid><content:encoded>&lt;h1&gt;Get in Touch.&lt;/h1&gt;
-&lt;p&gt;If you’ve got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Weddings are basically funerals with cake 1]]></title><description><![CDATA[toaster, Rick? I mean, that would be like the scariest place for them to live. You know what I mean?. Those guys are inside you building a…]]></description><link>https://sky14786.github.io/blog/weddings-are-basically-funerals-with-cake/</link><guid isPermaLink="false">https://sky14786.github.io/blog/weddings-are-basically-funerals-with-cake/</guid><pubDate>Fri, 03 Sep 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;toaster, Rick? I mean, that would be like the scariest place for them to live. You know what I mean?. Those guys are inside you building a piece of shit Ethan!! They’re inside you building a monument to compromise!! Fuck them. Fuck those people. Fuck this whole thing Ethan. What about the reality where Hitler cured cancer, Morty? The answer is: Don’t think about it. All right, all right, cool it! I see what’s happening here. You’re both young, you’re both unsure about your place in the universe, and you both want to be Grandpa’s favorite. I can fix this. Morty, sit here. Summer, you sit here. Now, listen—I know the two of you are very different from each other in a lot of ways, but you have to understand that as far as Grandpa’s concerned, you’re both pieces of shit! Yeah. I can prove it mathematically. Actually, l-l-let me grab my whiteboard. This has been a long time coming, anyways.&lt;/p&gt;
-&lt;p&gt;Listen, Morty, I hate to break it to you but what people call “love” is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science. You’re young, you have your whole life ahead of you, and your anal cavity is still taut yet malleable. He’s not a hot girl. He can’t just bail on his life and set up shop in someone else’s. Listen, Morty, I hate to break it to you but what people call “love” is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science. Why are you fighting? Can’t you see you’re all the same? / Oh Summer, first race war, huh?&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
+&lt;p&gt;If you’ve got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[React-Native (MacOS) 환경설정]]></title><description><![CDATA[사전 준비 도구 Homebrew Watchman Node Version Manager(NVM) Node Package Manager(NPM) Xcode Android Studio 1. Homebrew Install…]]></description><link>https://sky14786.github.io/blog/React Native MacOS 환경설정/</link><guid isPermaLink="false">https://sky14786.github.io/blog/React Native MacOS 환경설정/</guid><pubDate>Tue, 19 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;사전 준비 도구&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Homebrew&lt;/li&gt;
+&lt;li&gt;Watchman&lt;/li&gt;
+&lt;li&gt;Node Version Manager(NVM)&lt;/li&gt;
+&lt;li&gt;Node Package Manager(NPM)&lt;/li&gt;
+&lt;li&gt;Xcode&lt;/li&gt;
+&lt;li&gt;Android Studio&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;1. Homebrew Install&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;터미널을 열어 아래의 명령어를 입력하여 homebrew를 설치한다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;$ /bin/bash -c &amp;quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&amp;quot;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;설치가 끝난 후 아래와 같이 Next step이 나타나면 로그의 명령어를 그대로 터미널에 입력한다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;설치 후 로그&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; Next steps:
+- Add Homebrew to your &lt;span class=&quot;token environment constant&quot;&gt;PATH&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;in&lt;/span&gt; /Users/&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;USER_ID&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;/.zprofile:
+    &lt;span class=&quot;token builtin class-name&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;eval &quot;&lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$(&lt;/span&gt;/opt/homebrew/bin/brew shellenv&lt;span class=&quot;token variable&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&quot;&apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&gt;&gt;&lt;/span&gt; /Users/&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;USER_ID&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;/.zprofile
+    &lt;span class=&quot;token builtin class-name&quot;&gt;eval&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$(&lt;/span&gt;/opt/homebrew/bin/brew shellenv&lt;span class=&quot;token variable&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&quot;&lt;/span&gt;
+- Run &lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;`&lt;/span&gt;brew &lt;span class=&quot;token builtin class-name&quot;&gt;help&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;`&lt;/span&gt;&lt;/span&gt; to get started
+- Further documentation:
+    https://docs.brew.sh&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;입력할 명령어&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;eval &quot;&lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$(&lt;/span&gt;/opt/homebrew/bin/brew shellenv&lt;span class=&quot;token variable&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&quot;&apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&gt;&gt;&lt;/span&gt; /Users/&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;USER_ID&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;/.zprofile
+&lt;span class=&quot;token builtin class-name&quot;&gt;eval&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$(&lt;/span&gt;/opt/homebrew/bin/brew shellenv&lt;span class=&quot;token variable&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;2. Watchman Install&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Watchman은 페이스북에서 제공하는 툴로 파일시스템의 변경사항을 감지한다.&lt;/li&gt;
+&lt;li&gt;React native에서는 소스코드 변경이 발생하면 Watchman이 감지하여 재로딩하여 다시 빌드하지 않고 변경사항을 확인 할 수 있다.&lt;/li&gt;
+&lt;li&gt;터미널에 아래의 명령어를 입력한다.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;brew insatall watchman&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;3. Node Version Manger(NVM), Node Package Manger(NPM), React-native CLI 설치&lt;/h3&gt;
+&lt;p&gt;NVM을 설치하기 앞서 Homebrew라는 도구가 필요한데 해당 도구의 설치방법은 위의 명령어를 참고하면 되며, 자세한 사항은 &lt;a href=&quot;(https://www.lainyzine.com/ko/article/how-to-install-homebrew-for-m1-apple-silicon/)&quot;&gt;링크&lt;/a&gt;를 참조하기 바란다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;터미널에 &lt;code class=&quot;language-text&quot;&gt;brew install nvm&lt;/code&gt; 을 입력한다.&lt;/li&gt;
+&lt;li&gt;터미널에 &lt;code class=&quot;language-text&quot;&gt;vi ~/.zshrc&lt;/code&gt; 또는 &lt;code class=&quot;language-text&quot;&gt;open ~/.zshrc&lt;/code&gt; 를 이용하여 편집기를 열어준다.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;아래의 환경변수를 입력한 후 저장한다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# NVM&lt;/span&gt;
+&lt;span class=&quot;token builtin class-name&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token assign-left variable&quot;&gt;NVM_DIR&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;~/.nvm
+&lt;span class=&quot;token builtin class-name&quot;&gt;source&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$(&lt;/span&gt;brew --prefix nvm&lt;span class=&quot;token variable&quot;&gt;)&lt;/span&gt;&lt;/span&gt;/nvm.sh&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;source ~/.zshrc&lt;/code&gt; 를 입력하여 환경변수를 적용해 준다.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;nvm install {Node Version}&lt;/code&gt; 을 입력하여 NPM을 설치한다. &lt;strong&gt;(M1칩셋의 경우 15버전 이상부터 지원한다고 한다.)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;npm install -g react-native-cli&lt;/code&gt; 를 입력하여 React-native-cli를 설치한다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;4. Xcode Install&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;App Store를 사용하여 설치한다. 아래의 사진과 같이 xcode를 검색하면 찾을 수 있다.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/static/a4998b735397b2291f231725cb796547/1320e/xcode.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 64.55696202531645%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAADQklEQVQ4y3VRXWgTWRQepLa2pmJ9WjIljbqitYxuta2KP6APyrIKghL0QUFop9VtiYqtW1EpaqWtPsi+7C6IoLj+tU2tVkXUB0FwWRDJKjbNX5vMzeR3pNvMTCYzc+/xTlL1qR98c8+5c893v3Mu88+LN4tC/vdHpqLh1kgk0iJJEg+gUwKfNzCf13VeVRReVdW52JLL5VpmZmZaBUFwME8fPeEmfB9gKhKGqalJkOUsfJjWYTwqgvq/BDlVBguEkDlpwTRNCIfDB5nB0THuoy+ghMMhLIrIyGl5Y9efH42e4f+MSEY3opJu0PMGLSysc1DHGIPf73cxD0Yec77gpBYXYxCPi1jTNDIeShOUzJJ3IpCJlGUBE0zN0CLyFYZhfItNXAAEAgEXc39kjPvkD2mJuGgJEjqTYgtG3mrUikAvmASglxVas5DNZsESoTmh+5j2XnQ4+OgZ5x0PaEI0AolEnCiKDJmMBIqigEltGVSgWFikFVssghSGq9MjsmZCMEgdekYfc4FQWEMo+k0wnU5ZbiGdSUMqlSzkyVSCXpSmcXFPlmXQzMKDEHopVtQcFQxSweEhTowhLZlMUJEYsZzJWZkODL7DqsOz62xu6JR0EqY++5d+/QHa8rBnmENI0Kg7ywVJJTJwrv13OM5fgOPuHjjafBrcx85DW3MX/HHtNnS7+6CD74bfOgegu7Mfes5eI4cPuvGt6w/hszRNHXo8XCyG1Hg8Dql00hQiMbyz6RBeu3ozrqtbj+12B27medx7+TL+le/EDdx27HK58OjfN/BfV3rw68GbeNmKFWbXyUugycTFDA0NrhGECLZazkhpEGMJ+GXHYdi0cQc0Nm6BVbVr4GJvH9y99wA62rpgW9PP0H6sHbz/voWnI0OQoI/Z0LQJzp/ph7xKDjBXB/pWvnr5POT1esUJv0/wjU+grRv2oNpV9Yirb0DLf6xFR9s7UO9AP2prcaN1dVvQvr37kWdkFN25fQcFA5Pop3VNwqkT55JJUdrN2GyLSpzOpT84HA7W6XTaa2pq2IryhWx5mY2tXFjJlpTMZ+cxDFtWOp+12SrZqqolLENzi6ULKtjlzmX20pIydnHVEnt1dfWCL2vgGUIKuJoFAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        alt=&quot;Xcode&quot;
+        title=&quot;Xcode&quot;
+        src=&quot;/static/a4998b735397b2291f231725cb796547/f058b/xcode.png&quot;
+        srcset=&quot;/static/a4998b735397b2291f231725cb796547/c26ae/xcode.png 158w,
+/static/a4998b735397b2291f231725cb796547/6bdcf/xcode.png 315w,
+/static/a4998b735397b2291f231725cb796547/f058b/xcode.png 630w,
+/static/a4998b735397b2291f231725cb796547/40601/xcode.png 945w,
+/static/a4998b735397b2291f231725cb796547/78612/xcode.png 1260w,
+/static/a4998b735397b2291f231725cb796547/1320e/xcode.png 1292w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
+&lt;li&gt;Xcode 설치가 완료되면 실행하여 커맨다 +, 키를 눌러 설정창의 Locations탭의 Command Line Tools를 설정해 준다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Why are you fighting? Can’t you see you’re all the same?]]></title><description><![CDATA[Why are you fighting? Can’t you see you’re all the same? / Oh Summer, first race war, huh?. Why are you fighting? Can’t you see you’re all…]]></description><link>https://sky14786.github.io/blog/why-are-you-fighting-cant-you-see-youre-all-the-same/</link><guid isPermaLink="false">https://sky14786.github.io/blog/why-are-you-fighting-cant-you-see-youre-all-the-same/</guid><pubDate>Mon, 09 Aug 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Why are you fighting? Can’t you see you’re all the same? / Oh Summer, first race war, huh?. Why are you fighting? Can’t you see you’re all the same? / Oh Summer, first race war, huh?. Those guys are inside you building a piece of shit Ethan!! They’re inside you building a monument to compromise!! Fuck them. Fuck those people. Fuck this whole thing Ethan. Those guys are inside you building a piece of shit Ethan!! They’re inside you building a monument to compromise!! Fuck them. Fuck those people. Fuck this whole thing Ethan. Listen, Morty, I hate to break it to you but what people call “love” is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science.&lt;/p&gt;
-&lt;p&gt;You’re young, you have your whole life ahead of you, and your anal cavity is still taut yet malleable. He’s not a hot girl. He can’t just bail on his life and set up shop in someone else’s. Why are you fighting? Can’t you see you’re all the same? / Oh Summer, first race war, huh?. All right, all right, cool it! I see what’s happening here. You’re both young, you’re both unsure about your place in the universe, and you both want to be Grandpa’s favorite. I can fix this. Morty, sit here. Summer, you sit here. Now, listen—I know the two of you are very different from each other in a lot of ways, but you have to understand that as far as Grandpa’s concerned, you’re both pieces of shit! Yeah. I can prove it mathematically. Actually, l-l-let me grab my whiteboard. This has been a long time coming, anyways. All right, all right, cool it! I see what’s happening here. You’re both young, you’re both unsure about your place in the universe, and you both want to be Grandpa’s favorite. I can fix this. Morty, sit here. Summer, you sit here. Now, listen—I know the two of you are very different from each other in a lot of ways, but you have to understand that as far as Grandpa’s concerned, you’re both pieces of shit! Yeah. I can prove it mathematically. Actually, l-l-let me grab my whiteboard. This has been a long time coming, anyways.&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/static/93eeac2b3af4fb0ccec150847c0e5ed8/2d3cc/xcode2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 70.25316455696203%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAADLAAAAywAEoZFrbAAACD0lEQVQ4y62UW27TQBSGLYHoA68he0BiBZa6KN5YQzZQ8QD7oPShSZo0KWlDGySQEElJ4yTjufiSNLU9l8OZidNGCiBV8Mu/fTwz5zszHtseAHjDL/2X17PRPqPUpyFxDq3JHOPQHw1/+D+vRz5x98Qn85nPGPVjOvUFtTHbn0zGr7xST4Lh93pAbiCOhGQ01IIzHQmuBTqJuA7JTE9uxnqRJq4viWPNKdFTIvQ85JKzEDijF5VKZc8CnwVBcIow4DgYE8A6QseCwzxkEFIOlMwBZ4WJ2IftnIYQEIH9WJhTmE2ng2q1+twBQ0JauHTQSqmiKIyU0mS5NFIZw2+NoUtt7la3Jssyg8OM1tpY2RgPZXOx0CWy1kB8Lm3bWGSZWqYprJYLYCIFsSgAVAFaFoC1nLEgWBZCIUkSyPJcOyBnVw9AwR0QpXI83RkNHMel6ymAzbDTUFI66AaY57m9/w3w29e2GQyg6PdVfn4BWa8Hi+4ZLM96tg2W3XOQQQCyhFqtV+xUAvkDkF1+bkuEpK2WWnU6sOp2IT05gaTRgPS0A6L5Ccx4DCXpHmbW8S5we8nwFznAdvxHYLkpuH3K2B3cttXm6jg72n2G+FU0y6oZWj7Sefna9O+B+CJfwT8qjqPRBvj08PDD62az8b5ePz5o1I/fPsY2B3PfHR19fIOsPa9Wq3n2B/E/XHlR9X4B0+6cnX7OqEcAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        alt=&quot;Xcode2&quot;
+        title=&quot;Xcode2&quot;
+        src=&quot;/static/93eeac2b3af4fb0ccec150847c0e5ed8/f058b/xcode2.png&quot;
+        srcset=&quot;/static/93eeac2b3af4fb0ccec150847c0e5ed8/c26ae/xcode2.png 158w,
+/static/93eeac2b3af4fb0ccec150847c0e5ed8/6bdcf/xcode2.png 315w,
+/static/93eeac2b3af4fb0ccec150847c0e5ed8/f058b/xcode2.png 630w,
+/static/93eeac2b3af4fb0ccec150847c0e5ed8/40601/xcode2.png 945w,
+/static/93eeac2b3af4fb0ccec150847c0e5ed8/78612/xcode2.png 1260w,
+/static/93eeac2b3af4fb0ccec150847c0e5ed8/2d3cc/xcode2.png 3529w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
+&lt;h3&gt;5. Android Studio 설치&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://developer.android.com/studio&quot;&gt;Android Studio&lt;/a&gt; 에 접속하여 다운로드 버튼을 클릭한다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[You’re pretty cute, you know that?]]></title><description><![CDATA[You’re pretty cute, you know that? Why’s he gotta kick the door? Why’s he gotta kick the door? Don’t take it so personally, okay? I don’t…]]></description><link>https://sky14786.github.io/blog/youre-pretty-cute-you-know-that/</link><guid isPermaLink="false">https://sky14786.github.io/blog/youre-pretty-cute-you-know-that/</guid><pubDate>Thu, 01 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;You’re pretty cute, you know that? Why’s he gotta kick the door? Why’s he gotta kick the door? Don’t take it so personally, okay? I don’t like most people. He’s in the vast majority. It’s just, sometimes… people don’t really say what they’re really thinking. But when you capture the right moment, it says more.Let’s burn that lab to the ground. Oh… candy, leftovers, Eggo’s… she really likes Eggo’s. Bitchin’ So, Jonathan, how was the pull-out? You are such a nerd. No wonder you only hang out with boys. Mornings are for coffee and contemplation. Hey kiddo, would you like a balloon?It’s finger-lickin’ good. You’re pretty cute, you know that? He’s a sensitive kid. Lonnie used to say he was queer.&lt;/p&gt;
-&lt;p&gt;Called him a fag. Is he? He’s missing, is what he is! Oh… candy, leftovers, Eggo’s… she really likes Eggo’s. It’s about the shadow monster, isn’t it?He’s a sensitive kid. Lonnie used to say he was queer. Called him a fag. Is he? He’s missing, is what he is! So, Jonathan, how was the pull-out? Hey kiddo, would you like a balloon? You act like you want me to be your friend and then you treat me like garbage.You’re an idiot, Steve Harrington. You’re beautiful, Nancy Wheeler. Oh… candy, leftovers, Eggo’s… she really likes Eggo’s. It’s finger-lickin’ good. It’s finger-lickin’ good. Why are you keeping this curiosity door lock? She shut one door! With her mind!&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/static/1357a1fb93431dadabc3f95884815fb0/358a9/android_studio1.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 44.93670886075949%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAADLAAAAywAEoZFrbAAABbElEQVQoz3VR20rDUBDMBwl+g+Bzf0N86ov6IIJ/IwqCl9YgvQShpaZ3QWh9aKuFUrVJmtZq26TJjntOUrG3gWEnJ7Ob2RwFwBfTZU6ZDhE5oi6TRPV91h7TdzZ5lVBIsEFW3/eRy+WgaRri8TgymSzS6SQqlTqOHjI4b7XZzD72z3vmUPhgSsGLBXS7XYrFYqSqKl3f3NLV5QU9N23aihZoe++MJlOXggyLUMJVZUAsoVwuy6S6riOf12EPv1F86UHNVuHxFusgEzqOAyaJ6rouwucV88wVZ16gZzPp/e8Xm8qBlmXBMEwyDAP9fl9omHxm2gNY/QF6hoXPnsV6iJ41gMEe27Yh+oRfVNM05Uc2r+x5cN4a+Ok08V6r4qP2JPWk3QTGY2zC8qVw9YPJnOD47gQ7iSgiqQNE0ofYZb2vncJrNYIE/B/D3j+uGUjBQMdFp16CXkigVEyhUEgi93iP13oRGI0QXvEKfwFAIaax6i0mygAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        alt=&quot;Android Studio1&quot;
+        title=&quot;Android Studio1&quot;
+        src=&quot;/static/1357a1fb93431dadabc3f95884815fb0/f058b/android_studio1.png&quot;
+        srcset=&quot;/static/1357a1fb93431dadabc3f95884815fb0/c26ae/android_studio1.png 158w,
+/static/1357a1fb93431dadabc3f95884815fb0/6bdcf/android_studio1.png 315w,
+/static/1357a1fb93431dadabc3f95884815fb0/f058b/android_studio1.png 630w,
+/static/1357a1fb93431dadabc3f95884815fb0/40601/android_studio1.png 945w,
+/static/1357a1fb93431dadabc3f95884815fb0/78612/android_studio1.png 1260w,
+/static/1357a1fb93431dadabc3f95884815fb0/358a9/android_studio1.png 3950w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
+&lt;li&gt;Mac OS의 칩셋에 따라 다운로드 받으면 된다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[She shut one door! With her mind!]]></title><description><![CDATA[She shut one door! With her mind! You’re pretty cute, you know that? You are such a nerd. No wonder you only hang out with boys. Don’t take…]]></description><link>https://sky14786.github.io/blog/she-shut-one-door-with-her-mind/</link><guid isPermaLink="false">https://sky14786.github.io/blog/she-shut-one-door-with-her-mind/</guid><pubDate>Sat, 12 Jun 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;She shut one door! With her mind! You’re pretty cute, you know that? You are such a nerd. No wonder you only hang out with boys. Don’t take it so personally, okay? I don’t like most people. He’s in the vast majority. You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers?It’s about the shadow monster, isn’t it? Friends don’t lie. Hey kiddo, would you like a balloon? No… no El, you’re not the monster. You saved me. Do you understand? You saved me. I need my paddles! This is not yours to fix alone. You act like you’re all alone out there in the world, but you’re not. You’re not alone.Yeah, I want a date with Bo Derek. We all want things. Nancy, seriously, you’re gonna be so cool now, it’s ridiculous. Friends don’t lie. You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers?&lt;/p&gt;
-&lt;p&gt;Why’s he gotta kick the door?Let’s burn that lab to the ground. Don’t take it so personally, okay? I don’t like most people. He’s in the vast majority. You shouldn’t like things because people tell you you’re supposed to. You’re pretty cute, you know that? Why are you keeping this curiosity door lock?Why are you keeping this curiosity door lock? Do you know anything about sensory deprivation tanks? Specifically how to build one? She shut one door! With her mind! Why do we even need weapons anyway? We have her. She shut one door! With her mind! If anyone asks where I am, I’ve left the country.&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
+    href=&quot;/static/4c7bc5e7d11d6b1def0863d5d7143c33/e1a32/android_studio2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 20.88607594936709%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAADLAAAAywAEoZFrbAAAAtklEQVQY022QQQrCMBBFe3px4SU8giC4EnWjC92Li2KLtRqrQWpS2yYz36RSqeKDx8Dw5y8mkA9DSmnS+m1RFJTnOZVVRcZaMsZSbczHylvX5AFAzNzM1gB/cGWQlwtumYAQKZI4QhrHkELg7vYyy+BKm6wr/LoN+BdrfYJpt+XheMD9SY83qxEXyzUf5wuW0xkjDJsMEzWzqy/Erx6rFORhj2sSQYsTyvMZOk3xdLq/vK87+ZYXeSg0CGd0UHcAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
+        alt=&quot;Android Studio2&quot;
+        title=&quot;Android Studio2&quot;
+        src=&quot;/static/4c7bc5e7d11d6b1def0863d5d7143c33/f058b/android_studio2.png&quot;
+        srcset=&quot;/static/4c7bc5e7d11d6b1def0863d5d7143c33/c26ae/android_studio2.png 158w,
+/static/4c7bc5e7d11d6b1def0863d5d7143c33/6bdcf/android_studio2.png 315w,
+/static/4c7bc5e7d11d6b1def0863d5d7143c33/f058b/android_studio2.png 630w,
+/static/4c7bc5e7d11d6b1def0863d5d7143c33/40601/android_studio2.png 945w,
+/static/4c7bc5e7d11d6b1def0863d5d7143c33/78612/android_studio2.png 1260w,
+/static/4c7bc5e7d11d6b1def0863d5d7143c33/e1a32/android_studio2.png 4400w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
+&lt;li&gt;Preference -&gt; Apperance &amp;#x26; Behavior -&gt; SDK Tools -&gt; Android SDK Command-line Tools가 설치되어 있지 않다면 체크한 후 Apply버튼을 눌러 설치해 준다.&lt;/li&gt;
+&lt;li&gt;SDK를 설치했다면 환경변수를 설정해야 한다.&lt;/li&gt;
+&lt;li&gt;터미널에 &lt;code class=&quot;language-text&quot;&gt;vi ~/.zshrc&lt;/code&gt; 또는 &lt;code class=&quot;language-text&quot;&gt;open ~/.zshrc&lt;/code&gt;를 입력하여 편집기를 열어준다.&lt;/li&gt;
+&lt;li&gt;아래의 환경변수를 입력해 준다. {}로 표기된 부분은 각 사용자에 맞게 적어준다.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;source ~/.zshrc&lt;/code&gt; 를 입력하여 환경변수를 적용해 준다.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[This is not yours to fix alone]]></title><description><![CDATA[You act like you’re all alone out there in the world, but you’re not. You’re not alone. You are such a nerd. No wonder you only hang out…]]></description><link>https://sky14786.github.io/blog/this-is-not-yours-to-fix-alone/</link><guid isPermaLink="false">https://sky14786.github.io/blog/this-is-not-yours-to-fix-alone/</guid><pubDate>Tue, 04 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;You act like you’re all alone out there in the world, but you’re not. You’re not alone. You are such a nerd. No wonder you only hang out with boys. It’s about the shadow monster, isn’t it? If anyone asks where I am, I’ve left the country.Yeah, I want a date with Bo Derek. We all want things. Nancy, seriously, you’re gonna be so cool now, it’s ridiculous. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Why are you keeping this curiosity door lock? Friends don’t lie.Why’s he gotta kick the door? Mornings are for coffee and contemplation. Bitchin’ Yeah, I want a date with Bo Derek. We all want things.&lt;/p&gt;
-&lt;p&gt;No… no El, you’re not the monster. You saved me. Do you understand? You saved me. Mouth-breather. This is not yours to fix alone. You act like you’re all alone out there in the world, but you’re not. You’re not alone.Nancy, seriously, you’re gonna be so cool now, it’s ridiculous. Hey kiddo, would you like a balloon? It’s about the shadow monster, isn’t it? We never would’ve upset you if we knew you had superpowers. So, Jonathan, how was the pull-out? You’re going to be home by 8, listening to the Talking Heads and reading Vonnegut or something. That sounds like a nice night.You act like you want me to be your friend and then you treat me like garbage. You’re going to be home by 8, listening to the Talking Heads and reading Vonnegut or something. That sounds like a nice night. Mistakes have been made. Let’s burn that lab to the ground.&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;# Android SDK&lt;/span&gt;
+&lt;span class=&quot;token builtin class-name&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token assign-left variable&quot;&gt;ANDROID_HOME&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;/Users/&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;사용자이름&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;/Library/Android/sdk
+&lt;span class=&quot;token builtin class-name&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token assign-left variable&quot;&gt;&lt;span class=&quot;token environment constant&quot;&gt;PATH&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token environment constant&quot;&gt;$PATH&lt;/span&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;$ANDROID_HOME&lt;/span&gt;/emulator
+&lt;span class=&quot;token builtin class-name&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token assign-left variable&quot;&gt;&lt;span class=&quot;token environment constant&quot;&gt;PATH&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token environment constant&quot;&gt;$PATH&lt;/span&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;$ANDROID_HOME&lt;/span&gt;/tools &lt;span class=&quot;token builtin class-name&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token assign-left variable&quot;&gt;&lt;span class=&quot;token environment constant&quot;&gt;PATH&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token environment constant&quot;&gt;$PATH&lt;/span&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;$ANDROID_HOME&lt;/span&gt;/tools/bin
+&lt;span class=&quot;token builtin class-name&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token assign-left variable&quot;&gt;&lt;span class=&quot;token environment constant&quot;&gt;PATH&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token environment constant&quot;&gt;$PATH&lt;/span&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;$ANDROID_HOME&lt;/span&gt;/platform-tools&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;M1 가상화 머신 대응&lt;/strong&gt;&lt;a href=&quot;https://www.androidhuman.com/2021-07-04-android_emulator_apple_silicon&quot;&gt;가이드&lt;/a&gt;를 참조하여 가상화 머신을 생성하면 된다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
+&lt;h3&gt;6. 프로젝트 생성&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[why would a Pop-Tart want to live inside a toaster]]></title><description><![CDATA[I mean, why would a Pop-Tart want to live inside a toaster, Rick? I mean, that would be like the scariest place for them to live. You know…]]></description><link>https://sky14786.github.io/blog/why-would-a-pop-tart-want-to-live-inside-a-toaster/</link><guid isPermaLink="false">https://sky14786.github.io/blog/why-would-a-pop-tart-want-to-live-inside-a-toaster/</guid><pubDate>Fri, 12 Mar 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I mean, why would a Pop-Tart want to live inside a toaster, Rick? I mean, that would be like the scariest place for them to live. You know what I mean?. Wow, I really Cronenberged up the whole place, huh Morty? Just a bunch a Cronenbergs walkin’ around. I mean, why would a Pop-Tart want to live inside a toaster, Rick? I mean, that would be like the scariest place for them to live. You know what I mean?. If it was, you could call me Ernest Hemingway. You’re missing the point Morty. Why would he drive a smaller toaster with wheels? I mean, does your car look like a smaller version of your house? No.&lt;/p&gt;
-&lt;p&gt;I dunno, some people would pay top dollar for that kind of breakthrough. Morty, do you know what “wubba lubba dub dub” means?. It’s like the N word and the C word had a baby and it was raised by all the bad words for Jews. Those guys are inside you building a piece of shit Ethan!! They’re inside you building a monument to compromise!! Fuck them. Fuck those people. Fuck this whole thing Ethan. I mean, why would a Pop-Tart want to live inside a toaster, Rick? I mean, that would be like the scariest place for them to live. You know what I mean?.&lt;/p&gt;
-&lt;p&gt;I mean, why would a Pop-Tart want to live inside a toaster, Rick? I mean, that would be like the scariest place for them to live. You know what I mean?. Morty, do you know what “wubba lubba dub dub” means?. Nobody exists on purpose. Nobody belongs anywhere. We’re all going to die. Come watch TV. Nobody exists on purpose. Nobody belongs anywhere. We’re all going to die. Come watch TV. He’s not a hot girl. He can’t just bail on his life and set up shop in someone else’s.&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Why do we even need weapons anyway?]]></title><description><![CDATA[Why do we even need weapons anyway? We have her. Nobody normal ever accomplished anything meaningful in this world. Mouth-breather. Mornings…]]></description><link>https://sky14786.github.io/blog/why-do-we-even-need-weapons-anyway/</link><guid isPermaLink="false">https://sky14786.github.io/blog/why-do-we-even-need-weapons-anyway/</guid><pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Why do we even need weapons anyway? We have her. Nobody normal ever accomplished anything meaningful in this world. Mouth-breather. Mornings are for coffee and contemplation. Mouth-breather. Friends don’t lie. YOU BETTER RUN! She’s our friend, and she’s crazy!He’s a sensitive kid. Lonnie used to say he was queer. Called him a fag. Is he? He’s missing, is what he is! It’s about the shadow monster, isn’t it? We never would’ve upset you if we knew you had superpowers. You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers?&lt;/p&gt;
-&lt;p&gt;Mornings are for coffee and contemplation. So, Jonathan, how was the pull-out? Just wait till we tell Will that Jennifer Hayes was crying at his funeral. It’s just, sometimes… people don’t really say what they’re really thinking. But when you capture the right moment, it says more.Yeah, I want a date with Bo Derek. We all want things. Bitchin’ If anyone asks where I am, I’ve left the country. Nancy, seriously, you’re gonna be so cool now, it’s ridiculous. Just wait till we tell Will that Jennifer Hayes was crying at his funeral.&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Pale Blue Dot]]></title><description><![CDATA[Look again at that dot. That’s here. That’s home. That’s us. On it everyone you love, everyone you know, everyone you ever heard of, every…]]></description><link>https://sky14786.github.io/blog/pale-blue-dot/</link><guid isPermaLink="false">https://sky14786.github.io/blog/pale-blue-dot/</guid><pubDate>Sat, 06 Mar 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Look again at that dot. That’s here. That’s home. That’s us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every “superstar,” every “supreme leader,” every saint and sinner in the history of our species lived there—on a mote of dust suspended in a sunbeam.&lt;/p&gt;
-&lt;p&gt;The Earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds.&lt;/p&gt;
-&lt;p&gt;Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves.&lt;/p&gt;
-&lt;p&gt;The Earth is the only world known so far to harbor life. There is nowhere else, at least in the near future, to which our species could migrate. Visit, yes. Settle, not yet. Like it or not, for the moment the Earth is where we make our stand.&lt;/p&gt;
-&lt;p&gt;It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we’ve ever known. - Carl Sagan&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Magnificent Desolation]]></title><description><![CDATA[I believe that space travel will one day become as common as airline travel is today. I’m convinced, however, that the true future of space…]]></description><link>https://sky14786.github.io/blog/magnificent-desolation/</link><guid isPermaLink="false">https://sky14786.github.io/blog/magnificent-desolation/</guid><pubDate>Mon, 22 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I believe that space travel will one day become as common as airline travel is today. I’m convinced, however, that the true future of space travel does not lie with government agencies — NASA is still obsessed with the idea that the primary purpose of the space program is science — but real progress will come from private companies competing to provide the ultimate adventure ride, and NASA will receive the trickle-down benefits. - Buzz Aldrin&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[You shouldn't like things because people tell you you're supposed to.]]></title><description><![CDATA[Why’s he gotta kick the door? You’re an idiot, Steve Harrington. You’re beautiful, Nancy Wheeler. You’re pretty cute, you know that? Nobody…]]></description><link>https://sky14786.github.io/blog/you-shouldnt-like-things-because-people-tell-you-youre-supposed-to/</link><guid isPermaLink="false">https://sky14786.github.io/blog/you-shouldnt-like-things-because-people-tell-you-youre-supposed-to/</guid><pubDate>Thu, 18 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Why’s he gotta kick the door? You’re an idiot, Steve Harrington. You’re beautiful, Nancy Wheeler. You’re pretty cute, you know that? Nobody normal ever accomplished anything meaningful in this world.This is not yours to fix alone. You act like you’re all alone out there in the world, but you’re not. You’re not alone. You’re an idiot, Steve Harrington. You’re beautiful, Nancy Wheeler. If we’re both going crazy, then we’ll go crazy together, right?Hey kiddo, would you like a balloon? You shouldn’t like things because people tell you you’re supposed to. You are such a nerd. No wonder you only hang out with boys. You act like you want me to be your friend and then you treat me like garbage. We never would’ve upset you if we knew you had superpowers.&lt;/p&gt;
-&lt;p&gt;So, Jonathan, how was the pull-out? You’re pretty cute, you know that? Nancy, seriously, you’re gonna be so cool now, it’s ridiculous. This is not yours to fix alone. You act like you’re all alone out there in the world, but you’re not. You’re not alone.You are such a nerd. No wonder you only hang out with boys. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Why are you keeping this curiosity door lock? Hey kiddo, would you like a balloon? Why are you keeping this curiosity door lock?&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Do you know anything about sensory deprivation tanks?]]></title><description><![CDATA[Do you know anything about sensory deprivation tanks? Specifically how to build one? Nobody normal ever accomplished anything meaningful in…]]></description><link>https://sky14786.github.io/blog/do-you-know-anything-about-sensory-deprivation-tanks/</link><guid isPermaLink="false">https://sky14786.github.io/blog/do-you-know-anything-about-sensory-deprivation-tanks/</guid><pubDate>Tue, 02 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Do you know anything about sensory deprivation tanks? Specifically how to build one? Nobody normal ever accomplished anything meaningful in this world. So, Jonathan, how was the pull-out? No… no El, you’re not the monster. You saved me. Do you understand? You saved me.If we’re both going crazy, then we’ll go crazy together, right? Bitchin’ Oh… candy, leftovers, Eggo’s… she really likes Eggo’s. No… no El, you’re not the monster. You saved me. Do you understand? You saved me. It’s about the shadow monster, isn’t it?You act like you want me to be your friend and then you treat me like garbage.&lt;/p&gt;
-&lt;p&gt;So, Jonathan, how was the pull-out? Hey kiddo, would you like a balloon? We never would’ve upset you if we knew you had superpowers. Do you know anything about sensory deprivation tanks? Specifically how to build one?Why do we even need weapons anyway? We have her. She shut one door! With her mind! I need my paddles! Mistakes have been made. We never would’ve upset you if we knew you had superpowers. Nobody normal ever accomplished anything meaningful in this world.Why’s he gotta kick the door? Do you know anything about sensory deprivation tanks? Specifically how to build one? I need my paddles! It’s finger-lickin’ good. You’re pretty cute, you know that? It’s finger-lickin’ good. Don’t take it so personally, okay? I don’t like most people. He’s in the vast majority.&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Nobody normal ever accomplished anything meaningful in this world]]></title><description><![CDATA[Nobody normal ever accomplished anything meaningful in this world. Mistakes have been made. She shut one door! With her mind! Friends don’t…]]></description><link>https://sky14786.github.io/blog/nobody-normal-ever-accomplished-anything-meaningful-in-this-world/</link><guid isPermaLink="false">https://sky14786.github.io/blog/nobody-normal-ever-accomplished-anything-meaningful-in-this-world/</guid><pubDate>Thu, 21 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Nobody normal ever accomplished anything meaningful in this world. Mistakes have been made. She shut one door! With her mind! Friends don’t lie. You act like you want me to be your friend and then you treat me like garbage. It’s about the shadow monster, isn’t it?Why are you keeping this curiosity door lock? You shouldn’t like things because people tell you you’re supposed to. Friends don’t lie. You are such a nerd. No wonder you only hang out with boys.&lt;/p&gt;
-&lt;p&gt;If we’re both going crazy, then we’ll go crazy together, right?Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Hey kiddo, would you like a balloon? It’s about the shadow monster, isn’t it? Don’t take it so personally, okay? I don’t like most people. He’s in the vast majority. You’re going to take out the demigorgon with a slingshot?So, Jonathan, how was the pull-out? I need my paddles! You’re pretty cute, you know that? He’s a sensitive kid. Lonnie used to say he was queer. Called him a fag.&lt;/p&gt;
-&lt;p&gt;Is he? He’s missing, is what he is! We never would’ve upset you if we knew you had superpowers.Don’t take it so personally, okay? I don’t like most people. He’s in the vast majority. YOU BETTER RUN! She’s our friend, and she’s crazy! Mistakes have been made. It’s finger-lickin’ good. Friends don’t lie. Nobody normal ever accomplished anything meaningful in this world.&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Friends don't lie]]></title><description><![CDATA[Friends don’t lie. Um, I’m happy you’re home. We never would’ve upset you if we knew you had superpowers. Um, I’m happy you’re home. Let’s…]]></description><link>https://sky14786.github.io/blog/friends-dont-lie/</link><guid isPermaLink="false">https://sky14786.github.io/blog/friends-dont-lie/</guid><pubDate>Mon, 04 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Friends don’t lie. Um, I’m happy you’re home. We never would’ve upset you if we knew you had superpowers. Um, I’m happy you’re home. Let’s burn that lab to the ground. Don’t take it so personally, okay? I don’t like most people. He’s in the vast majority.Nancy, seriously, you’re gonna be so cool now, it’s ridiculous. So, Jonathan, how was the pull-out? Um, I’m happy you’re home. You’re an idiot, Steve Harrington. You’re beautiful, Nancy Wheeler. It’s just, sometimes… people don’t really say what they’re really thinking.&lt;/p&gt;
-&lt;p&gt;But when you capture the right moment, it says more.If we’re both going crazy, then we’ll go crazy together, right? If we’re both going crazy, then we’ll go crazy together, right? I need my paddles! You’re an idiot, Steve Harrington. You’re beautiful, Nancy Wheeler. Friends don’t lie. He’s a sensitive kid. Lonnie used to say he was queer. Called him a fag. Is he? He’s missing, is what he is!You’re an idiot, Steve Harrington. You’re beautiful, Nancy Wheeler. Do you know anything about sensory deprivation tanks?&lt;/p&gt;
-&lt;p&gt;Specifically how to build one? Yeah, I want a date with Bo Derek. We all want things. No… no El, you’re not the monster. You saved me. Do you understand? You saved me.If anyone asks where I am, I’ve left the country. Friends don’t lie. You are such a nerd. No wonder you only hang out with boys. Mouth-breather. Let’s burn that lab to the ground. Why’s he gotta kick the door? You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers?&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Symbol of Apollo]]></title><description><![CDATA[The most significant things we can think about, when we think about Apollo, is that it has opened for us, for us being the World, a…]]></description><link>https://sky14786.github.io/blog/symbol-of-apollo/</link><guid isPermaLink="false">https://sky14786.github.io/blog/symbol-of-apollo/</guid><pubDate>Sun, 03 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The most significant things we can think about, when we think about Apollo, is that it has opened for us, for us being the World, a challenge of the future. The door is now cracked, but the promise of that future lies in the young people, not just in America, but the young people all over the world. Learning to live and learning to work together. In order to remind all the peoples of the World, in so many countries throughout the world, that this is what we all are striving for in the future, Jack has picked up a very significant rock, typical of what we have here in the valley of Taurus Littrow. It’s a rock composed of many fragments, of many sizes, and many shapes, probably from all parts of the Moon, perhaps billions of years old. But a rock of all sizes and shapes, fragments of all sizes and shapes, and even colors that have grown together to become a cohesive rock outlasting the nature of Space, sort of living together in a very coherent, very peaceful manner. When we return this rock or some of the others like it to Houston, we’d like to share a piece of this rock with so many of the countries throughout the world. We hope that this will be a symbol of what our feelings are, what the feelings of the Apollo Program are, and a symbol of mankind that we can live in peace and harmony in the future. - Gene Cernan&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Tough and Competent]]></title><description><![CDATA[Spaceflight will never tolerate carelessness, incapacity, and neglect. Somewhere, somehow, we screwed up. It could have been in design…]]></description><link>https://sky14786.github.io/blog/tough-and-competent/</link><guid isPermaLink="false">https://sky14786.github.io/blog/tough-and-competent/</guid><pubDate>Sat, 02 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Spaceflight will never tolerate carelessness, incapacity, and neglect. Somewhere, somehow, we screwed up. It could have been in design, build, or test. Whatever it was, we should have caught it. We were too gung ho about the schedule and we locked out all of the problems we saw each day in our work.&lt;/p&gt;
-&lt;p&gt;“Every element of the program was in trouble and so were we. The simulators were not working, Mission Control was behind in virtually every area, and the flight and test procedures changed daily. Nothing we did had any shelf life. Not one of us stood up and said, ‘Dammit, stop!’ I don’t know what Thompson’s committee will find as the cause, but I know what I find. We are the cause! We were not ready! We did not do our job. We were rolling the dice, hoping that things would come together by launch day, when in our hearts we knew it would take a miracle. We were pushing the schedule and betting that the Cape would slip before we did.&lt;/p&gt;
-&lt;p&gt;“From this day forward, Flight Control will be known by two words: ‘Tough’ and ‘Competent.’ Tough means we are forever accountable for what we do or what we fail to do. We will never again compromise our responsibilities. Every time we walk into Mission Control we will know what we stand for. Competent means we will never take anything for granted. We will never be found short in our knowledge and in our skills. Mission Control will be perfect.&lt;/p&gt;
-&lt;p&gt;When you leave this meeting today you will go to your office and the first thing you will do there is to write ‘Tough and Competent’ on your blackboards. It will never be erased. Each day when you enter the room these words will remind you of the price paid by Grissom, White, and Chaffee. These words are the price of admission to the ranks of Mission Control. - Gene Kranz&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[We Choose to go to the Moon]]></title><description><![CDATA[There is no strife, no prejudice, no national conflict in outer space as yet. Its hazards are hostile to us all. Its conquest deserves the…]]></description><link>https://sky14786.github.io/blog/we-choose-to-go-to-the-moon/</link><guid isPermaLink="false">https://sky14786.github.io/blog/we-choose-to-go-to-the-moon/</guid><pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;There is no strife, no prejudice, no national conflict in outer space as yet. Its hazards are hostile to us all. Its conquest deserves the best of all mankind, and its opportunity for peaceful cooperation many never come again. But why, some say, the moon? Why choose this as our goal? And they may well ask why climb the highest mountain? Why, 35 years ago, fly the Atlantic? Why does Rice play Texas?&lt;/p&gt;
-&lt;p&gt;We choose to go to the moon. We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.&lt;/p&gt;
-&lt;p&gt;It is for these reasons that I regard the decision last year to shift our efforts in space from low to high gear as among the most important decisions that will be made during my incumbency in the office of the Presidency.&lt;/p&gt;
-&lt;p&gt;In the last 24 hours we have seen facilities now being created for the greatest and most complex exploration in man’s history. We have felt the ground shake and the air shattered by the testing of a Saturn C-1 booster rocket, many times as powerful as the Atlas which launched John Glenn, generating power equivalent to 10,000 automobiles with their accelerators on the floor. We have seen the site where the F-1 rocket engines, each one as powerful as all eight engines of the Saturn combined, will be clustered together to make the advanced Saturn missile, assembled in a new building to be built at Cape Canaveral as tall as a 48 story structure, as wide as a city block, and as long as two lengths of this field. - John F. Kennedy.&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Nobody exists on purpose]]></title><description><![CDATA[Nobody exists on purpose. Nobody belongs anywhere. We’re all going to die. Come watch TV. Nobody exists on purpose. Nobody belongs anywhere…]]></description><link>https://sky14786.github.io/blog/nobody-exists-on-purpose/</link><guid isPermaLink="false">https://sky14786.github.io/blog/nobody-exists-on-purpose/</guid><pubDate>Wed, 09 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Nobody exists on purpose. Nobody belongs anywhere. We’re all going to die. Come watch TV. Nobody exists on purpose. Nobody belongs anywhere. We’re all going to die. Come watch TV. Weddings are basically funerals with cake. I mean, why would a Pop-Tart want to live inside a toaster, Rick? I mean, that would be like the scariest place for them to live. You know what I mean?. Those guys are inside you building a piece of shit Ethan!! They’re inside you building a monument to compromise!! Fuck them. Fuck those people. Fuck this whole thing Ethan.&lt;/p&gt;
-&lt;p&gt;I mean, why would a Pop-Tart want to live inside a toaster, Rick? I mean, that would be like the scariest place for them to live. You know what I mean?. Why are you fighting? Can’t you see you’re all the same? / Oh Summer, first race war, huh?. I wish that shotgun was my penis. You’re missing the point Morty. Why would he drive a smaller toaster with wheels? I mean, does your car look like a smaller version of your house? No. I mean, why would a Pop-Tart want to live inside a toaster, Rick? I mean, that would be like the scariest place for them to live. You know what I mean?.&lt;/p&gt;
-&lt;p&gt;I wish that shotgun was my penis. He’s not a hot girl. He can’t just bail on his life and set up shop in someone else’s. I wish that shotgun was my penis. It’s like the N word and the C word had a baby and it was raised by all the bad words for Jews. Listen, Morty, I hate to break it to you but what people call “love” is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science.&lt;/p&gt;
-&lt;p&gt;All right, all right, cool it! I see what’s happening here. You’re both young, you’re both unsure about your place in the universe, and you both want to be Grandpa’s favorite. I can fix this. Morty, sit here. Summer, you sit here. Now, listen—I know the two of you are very different from each other in a lot of ways, but you have to understand that as far as Grandpa’s concerned, you’re both pieces of shit! Yeah. I can prove it mathematically. Actually, l-l-let me grab my whiteboard. This has been a long time coming, anyways. What about the reality where Hitler cured cancer, Morty? The answer is: Don’t think about it. If it was, you could call me Ernest Hemingway. You’re missing the point Morty. Why would he drive a smaller toaster with wheels? I mean, does your car look like a smaller version of your house? No. Listen to your sister, Morty. To live is to risk it all, otherwise you’re just an inert chunk of randomly assembled molecules drifting wherever the universe blows you.&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Mornings are for coffee and contemplation]]></title><description><![CDATA[Mornings are for coffee and contemplation. If we’re both going crazy, then we’ll go crazy together, right? I need my paddles! Yeah, I want a…]]></description><link>https://sky14786.github.io/blog/mornings-are-for-coffee-and-contemplation/</link><guid isPermaLink="false">https://sky14786.github.io/blog/mornings-are-for-coffee-and-contemplation/</guid><pubDate>Sun, 01 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Mornings are for coffee and contemplation. If we’re both going crazy, then we’ll go crazy together, right? I need my paddles! Yeah, I want a date with Bo Derek. We all want things. Just wait till we tell Will that Jennifer Hayes was crying at his funeral.You shouldn’t like things because people tell you you’re supposed to. You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers? You’re going to be home by 8, listening to the Talking Heads and reading Vonnegut or something. That sounds like a nice night.If we’re both going crazy, then we’ll go crazy together, right? Why do we even need weapons anyway? We have her.&lt;/p&gt;
-&lt;p&gt;You’re an idiot, Steve Harrington. You’re beautiful, Nancy Wheeler. Let’s burn that lab to the ground. Bitchin’ You shouldn’t like things because people tell you you’re supposed to.Friends don’t lie. It’s just, sometimes… people don’t really say what they’re really thinking. But when you capture the right moment, it says more. You’re going to take out the demigorgon with a slingshot? Mistakes have been made. He’s a sensitive kid. Lonnie used to say he was queer. Called him a fag. Is he? He’s missing, is what he is!&lt;/p&gt;
-&lt;p&gt;You’re going to be home by 8, listening to the Talking Heads and reading Vonnegut or something. That sounds like a nice night. I need my paddles! If we’re both going crazy, then we’ll go crazy together, right? If anyone asks where I am, I’ve left the country.&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[One World]]></title><description><![CDATA[The view of the earth from the moon fascinated me - a small disk, 240,000 mniles away. It was hard to think that that little thing held so…]]></description><link>https://sky14786.github.io/blog/one-world/</link><guid isPermaLink="false">https://sky14786.github.io/blog/one-world/</guid><pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The view of the earth from the moon fascinated me - a small disk, 240,000 mniles away. It was hard to think that that little thing held so many problems, so many frustrations. Raging nationalistic interests, famines, wars, pestilence don’t show from that distance. I’m convinced that some wayward stranger in a space-craft, coming from some other part of the heavens, could look at earth and never know that it was inhabited at all. But the same wayward stranger would certainly know instinctively that if the earth were inhabited, then the destinies of all who lived on it must inevitably be interwoven and joined. We are one hunk of ground, water, air, clouds, floating around in space. From out there it really is ‘one world’. - Frank Borman&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item></channel></rss>
+&lt;li&gt;위의 준비 과정을 모두 마쳤다면, 프로젝트를 생성할 순서이다. 터미널을 열어 프로젝트를 생성할 경로로 이동하여 &lt;code class=&quot;language-text&quot;&gt;nvm use {노드버전}&lt;/code&gt; 을 입력한다.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;react-native init {프로젝트명}&lt;/code&gt;을 입력한다.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;/프로젝트경로/ios&lt;/code&gt; 로 이동하여 &lt;code class=&quot;language-text&quot;&gt;pod install&lt;/code&gt; 명령어를 입력해준다.&lt;/li&gt;
+&lt;li&gt;Android 실행 명령어는 &lt;code class=&quot;language-text&quot;&gt;npm run android&lt;/code&gt; 또는 &lt;code class=&quot;language-text&quot;&gt;react-native run-android&lt;/code&gt; 이고, IOS 실행 명령어는 &lt;code class=&quot;language-text&quot;&gt;npm run ios&lt;/code&gt; 또는 &lt;code class=&quot;language-text&quot;&gt;react-native run-ios&lt;/code&gt; 이다.&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item></channel></rss>
