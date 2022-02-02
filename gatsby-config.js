@@ -7,7 +7,7 @@ module.exports = {
     },
     openGraphImage: `open-graph-image.png`,
     description: `이것은 블로그이다.`,
-    siteUrl: `https://sky14786.github.io/blog`,
+    siteUrl: `https://sky14786.github.io`,
     social: {
       twitter: `juneyeoungKim`,
     },
