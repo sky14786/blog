@@ -1,20 +1,20 @@
-import React from 'react';
-import { Link, graphql } from 'gatsby';
-import Layout from '../components/layout';
-import styled from 'styled-components';
-import Tags from '../components/tags';
+import React from "react"
+import { Link, graphql } from "gatsby"
+import Layout from "../components/layout"
+import styled from "styled-components"
+import Tags from "../components/tags"
 
 const PostTemplate = ({ data }) => {
-  const { frontmatter, excerpt, html } = data.markdownRemark;
-  const prev = data.prev;
-  const next = data.next;
+  const { frontmatter, excerpt, html } = data.markdownRemark
+  const prev = data.prev
+  const next = data.next
 
   return (
     <Layout
       title={frontmatter.title}
       description={frontmatter.description || excerpt}
       socialImage={
-        frontmatter.social_image ? frontmatter.social_image.absolutePath : ''
+        frontmatter.social_image ? frontmatter.social_image.absolutePath : ""
       }
     >
       <PostWrapper>
@@ -40,13 +40,13 @@ const PostTemplate = ({ data }) => {
             </div>
           )}
         </PostPagination>
-        <Tags tags={frontmatter.tags} />
+        <Tags tags={frontmatter.tags} isListpage={false} />
       </PostWrapper>
     </Layout>
-  );
-};
+  )
+}
 
-export default PostTemplate;
+export default PostTemplate
 
 const PostWrapper = styled.div`
   padding-top: var(--size-900);
@@ -55,17 +55,17 @@ const PostWrapper = styled.div`
   margin-right: auto;
   max-width: 70ch;
   word-wrap: break-word;
-`;
+`
 
 const PostTitle = styled.h1`
   font-size: var(--size-700);
-`;
+`
 
 const PostDate = styled.span`
   font-size: var(--size-400);
   padding-top: 1rem;
   text-transform: uppercase;
-`;
+`
 
 const PostContent = styled.section`
   padding-top: var(--size-800);
@@ -114,7 +114,7 @@ const PostContent = styled.section`
   }
 
   code {
-    font-family: 'Source Sans Pro', monospace;
+    font-family: "Source Sans Pro", monospace;
     overflow-x: auto;
     white-space: pre-wrap;
   }
@@ -124,7 +124,7 @@ const PostContent = styled.section`
     white-space: pre-wrap;
     max-width: 100%;
   }
-`;
+`
 
 const PostPagination = styled.nav`
   display: flex;
@@ -165,14 +165,14 @@ const PostPagination = styled.nav`
   }
 
   & a::after {
-    content: '';
+    content: "";
     position: absolute;
     left: 0;
     right: 0;
     top: 0;
     bottom: 0;
   }
-`;
+`
 
 export const pageQuery = graphql`
   query PostBySlug($slug: String!, $prevSlug: String, $nextSlug: String) {
@@ -208,4 +208,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

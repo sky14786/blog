@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `개발자의 블로그`,
+    title: `개미의 메모장`,
     author: {
       name: `JuneYeoung Kim`,
       summary: `Self-taught front-end web dev. JAMStack.`,

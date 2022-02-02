@@ -1,14 +1,14 @@
-import React from 'react';
-import { graphql } from 'gatsby';
-import Layout from '../components/layout';
-import PostList from '../components/post-list';
-import styled from 'styled-components';
-import StyledLink from '../components/styled-link';
+import React from "react"
+import { graphql } from "gatsby"
+import Layout from "../components/layout"
+import PostList from "../components/post-list"
+import styled from "styled-components"
+import StyledLink from "../components/styled-link"
 
 const HomePage = ({ data }) => {
-  const posts = data.allMarkdownRemark.nodes;
-  const intro = data.markdownRemark.html;
-  const title = data.markdownRemark.frontmatter.title;
+  const posts = data.allMarkdownRemark.nodes
+  const intro = data.markdownRemark.html
+  const title = data.markdownRemark.frontmatter.title
 
   return (
     <Layout title={title}>
@@ -30,13 +30,13 @@ const HomePage = ({ data }) => {
         `}
         to="/blog"
       >
-        View All posts
+        모든 포스트 보기
       </StyledLink>
     </Layout>
-  );
-};
+  )
+}
 
-export default HomePage;
+export default HomePage
 
 const Intro = styled.div`
   display: flex;
@@ -59,7 +59,7 @@ const Intro = styled.div`
       font-size: var(--size-700);
     }
   }
-`;
+`
 
 export const pageQuery = graphql`
   query($slug: String!) {
@@ -94,4 +94,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

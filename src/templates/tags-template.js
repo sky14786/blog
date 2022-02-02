@@ -7,16 +7,14 @@ import styled from "styled-components"
 
 const TagsTemplate = ({ pageContext, data }) => {
   const { tag } = pageContext
-  const { totalCount } = data.allMarkdownRemark
+  // const { totalCount } = data.allMarkdownRemark
   const posts = data.allMarkdownRemark.nodes
   const title = `Posts tagged ${tag}`
 
   return (
     <Layout title={title}>
       <TagsTemplateWrapper>
-        <Title>
-          {totalCount} posts tagged "{tag}"
-        </Title>
+        <Title>"{tag}" 검색 결과</Title>
         <Link
           css={`
             margin-top: var(--size-400);
@@ -26,7 +24,7 @@ const TagsTemplate = ({ pageContext, data }) => {
           `}
           to="/tags"
         >
-          view all tags
+          모든 태그 보기
         </Link>
         <PostList posts={posts} />
 
@@ -37,7 +35,7 @@ const TagsTemplate = ({ pageContext, data }) => {
           `}
           to="/tags"
         >
-          View All tags
+          뒤로가기
         </StyledLink>
       </TagsTemplateWrapper>
     </Layout>
